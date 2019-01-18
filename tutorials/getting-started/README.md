@@ -1,2 +1,3 @@
 # Getting Started
-This is the good shit
+
+Let's learn how to build some websites
