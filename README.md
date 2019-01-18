@@ -1,3 +1,4 @@
 # test-apostrophe-docs
-## hello my baby
-testing gitbook
+## Welcome to ApostropheCMS
+
+We are testing Gitbook TODAY
